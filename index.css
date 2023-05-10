@@ -1,0 +1,56 @@
+/* index.css */
+
+body {
+    background-color:#efdaad;
+}
+
+.reclogo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.webheader {
+    text-align:center;
+    font-size:34px;
+    position:relative;
+    top:-72px;
+    font-family:gothic-y-ui;
+}
+
+.divider {
+    overflow: visible;
+    padding: 0;
+    border: none;
+    border-top: medium double #333;
+    color: #501515;
+    text-align: center;
+    width:35%;
+    position: relative;
+    top: -30px;
+}
+
+.scroll {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.recipe {
+    font-size:34px;
+    position:relative;
+    top:-700px;
+    left:500px;
+    font-family:cursive;
+}
+
+a {
+    color:brown;
+    text-decoration: none;
+}
+
+* {
+    border: 2px solid red;
+}
